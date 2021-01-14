@@ -20,4 +20,4 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
   * part 10: React Native
   * part 11: CI/CD
 
-[By University of Helsinki and Houston Inc.] (https://fullstactopen.com/en)
+[By University of Helsinki and Houston Inc.](https://fullstactopen.com/en)
